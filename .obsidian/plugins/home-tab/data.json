@@ -1,13 +1,13 @@
 {
   "logoType": "lucideIcon",
   "logo": {
-    "lucideIcon": "calculator",
+    "lucideIcon": "ruler",
     "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Analisi matematica 2",
+  "wordmark": "Misure",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "index.md",
-      "timestamp": 1726066885515
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1726469972400
     },
     {
-      "filepath": "Introduzione al corso.md",
-      "timestamp": 1726066638464
+      "filepath": "index.md",
+      "timestamp": 1726469950191
     }
   ],
   "starredFileStore": [],
