@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1af52364af6b5a4b",
+        "id": "eacf6d3af05be8a2",
         "type": "tabs",
         "children": [
           {
-            "id": "2deb27cd57d203e1",
+            "id": "56dd70e882665af2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduzione al corso.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduzione al corso.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +141,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2deb27cd57d203e1",
+  "active": "56dd70e882665af2",
   "lastOpenFiles": [
-    "index.md",
     "Introduzione al corso.md",
+    "index.md",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Teoria dei circuiti/Generatori pilotati.md",
