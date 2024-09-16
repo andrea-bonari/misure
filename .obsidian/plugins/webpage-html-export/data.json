@@ -107,7 +107,7 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": false,
+      "enabled": true,
       "displayTitle": "Graph View",
       "featurePlacement": {
         "selector": "#right-sidebar-content",
@@ -171,7 +171,7 @@
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "",
+    "exportRoot": "/",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },
@@ -180,7 +180,7 @@
   "onlyExportModified": false,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",
