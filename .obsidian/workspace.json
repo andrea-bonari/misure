@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eacf6d3af05be8a2",
+        "id": "e0e3742639920e93",
         "type": "tabs",
         "children": [
           {
-            "id": "56dd70e882665af2",
+            "id": "0ed3ea46580f90b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduzione al corso.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,10 +149,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "56dd70e882665af2",
+  "active": "0ed3ea46580f90b5",
   "lastOpenFiles": [
+    "Metrologia/Unita logaritmica.md",
     "index.md",
+    "Metrologia/Sistema Internazionale.md",
+    "Metrologia/Metrologia.md",
+    "Metrologia/Errori di misura.md",
+    "data/Pasted image 20240919094418.png",
     "Introduzione al corso.md",
+    "temp/2024-09-18.md",
+    "temp/2024-09-16.md",
+    "Metrologia",
+    "temp",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Teoria dei circuiti/Generatori pilotati.md",
@@ -171,9 +180,6 @@
     "Componenti dinamici/Componenti dinamici.md",
     "Bipoli compositi/Amplificatore operazionale ideale.md",
     "Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Bipoli compositi/Doppi bipoli lineari affini.md",
-    "Bipoli compositi/Doppi bipoli.md",
-    "Bipoli compositi/Trasferitore ideale di potenza.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -184,17 +190,12 @@
     "data/Pasted image 20240902164322.png",
     "data/Pasted image 20240902164157.png",
     "data/Pasted image 20240902163846.png",
-    "data/Pasted image 20240902163313.png",
-    "Teoria dei circuiti/Bipoli/Bipoli.md",
     "Bipoli compositi",
-    "Campagna.md",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",
     "old",
-    "old/data",
-    "old/temp",
-    "old/elettromagnetismo"
+    "old/data"
   ]
 }

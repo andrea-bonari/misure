@@ -1,5 +1,5 @@
 {
-  "settingsVersion": "1.8.1-2b",
+  "settingsVersion": "0.0.0",
   "exportOptions": {
     "createDocumentContainer": true,
     "createPusherElement": true,
@@ -7,9 +7,11 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/output",
+    "exportPath": "",
     "filesToExport": [
-      "all"
+      "Metrologia",
+      "index.md",
+      "Introduzione al corso.md"
     ],
     "addBodyClasses": true,
     "addMathjaxStyles": true,
@@ -27,7 +29,7 @@
     },
     "tagOptions": {
       "featureId": "tags",
-      "enabled": true,
+      "enabled": false,
       "displayTitle": "",
       "featurePlacement": {
         "selector": ".header .data-bar",
@@ -107,7 +109,7 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": true,
+      "enabled": false,
       "displayTitle": "Graph View",
       "featurePlacement": {
         "selector": "#right-sidebar-content",
@@ -166,18 +168,18 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "siteURL": "",
-    "siteName": "Misure",
+    "siteName": "misure",
     "faviconPath": "",
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "/",
+    "exportRoot": "",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },
   "logLevel": "warning",
   "titleProperty": "title",
-  "onlyExportModified": false,
+  "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
   "openAfterExport": true,
