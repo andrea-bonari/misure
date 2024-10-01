@@ -1,5 +1,5 @@
 {
-  "settingsVersion": "0.0.0",
+  "settingsVersion": "1.8.1-2b",
   "exportOptions": {
     "createDocumentContainer": true,
     "createPusherElement": true,
@@ -7,7 +7,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "/output",
     "filesToExport": [
       "Metrologia",
       "index.md",
@@ -29,7 +29,7 @@
     },
     "tagOptions": {
       "featureId": "tags",
-      "enabled": false,
+      "enabled": true,
       "displayTitle": "",
       "featurePlacement": {
         "selector": ".header .data-bar",
@@ -168,7 +168,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "siteURL": "",
-    "siteName": "misure",
+    "siteName": "Misure",
     "faviconPath": "",
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
@@ -179,7 +179,7 @@
   },
   "logLevel": "warning",
   "titleProperty": "title",
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "exportPreset": "online",
   "openAfterExport": true,
