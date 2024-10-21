@@ -5,3 +5,11 @@ Il corso di Misure esplora i concetti fondamentali della metrologia e delle misu
 	1. [[Errori di misura]]
 	2. [[Sistema Internazionale]]
 	3. [[Unita logaritmica]]
+3. [[Incertezza di misura]]
+	1. [[Richiami di probabilità e statistica]]
+	2. [[Incertezza di categoria A]]
+	3. [[Incertezza di categoria B]]
+	4. [[Misure indirette]]
+	5. [[Compatibilità]]
+	6. 
+

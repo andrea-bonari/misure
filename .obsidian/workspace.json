@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e82f569ca8fb42d1",
+        "id": "768fde60731030d4",
         "type": "tabs",
         "children": [
           {
-            "id": "878a94d4fd331c11",
+            "id": "210110a2b5703197",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Incertezza di misura/Incertezza di categoria B.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Incertezza di misura/Incertezza di categoria B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Incertezza di misura/Incertezza di categoria B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Incertezza di misura/Incertezza di categoria B.md"
+              }
             }
           }
         ]
@@ -141,15 +149,31 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "878a94d4fd331c11",
+  "active": "210110a2b5703197",
   "lastOpenFiles": [
+    "Introduzione al corso.md",
     "index.md",
+    "Incertezza di misura/Incertezza di categoria B.md",
+    "Incertezza di misura/Compatibilità.md",
+    "data/Pasted image 20241010151623.png",
+    "Incertezza di misura/Richiami di probabilità e statistica.md",
+    "Incertezza di misura/Misure indirette.md",
+    "Sistema di elaborazione.md",
+    "data/Pasted image 20241003212544.png",
+    "data/Pasted image 20241003211022.png",
+    "Incertezza di misura/Incertezza di misura.md",
+    "data/Pasted image 20241003093013.png",
+    "data/Pasted image 20241003091916.png",
+    "Incertezza di misura/Incertezza di categoria A.md",
+    "data/Pasted image 20241003091605.png",
+    "data/Pasted image 20241003090909.png",
+    "data/Pasted image 20241003090542.png",
+    "Incertezza di misura",
     "Metrologia/Unita logaritmica.md",
     "Metrologia/Sistema Internazionale.md",
     "Metrologia/Metrologia.md",
     "Metrologia/Errori di misura.md",
     "data/Pasted image 20240919094418.png",
-    "Introduzione al corso.md",
     "temp/2024-09-18.md",
     "temp/2024-09-16.md",
     "Metrologia",
@@ -164,30 +188,13 @@
     "Teoria dei circuiti/Risoluzione di circuiti.md",
     "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
     "Teoria dei circuiti/Teoria dei circuiti.md",
-    "Elettrostatica/Fondamenti di elettrostatica.md",
-    "Elettrostatica/Materiale conduttore.md",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Elettrostatica/Potenziale e tensione elettrica.md",
-    "Elettrostatica/Principio di conservazione della carica.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
     "data/Pasted image 20240902165354.png",
-    "data/Pasted image 20240902165330.png",
-    "data/Pasted image 20240902165224.png",
-    "data/Pasted image 20240902165202.png",
     "Componenti dinamici",
-    "data/Pasted image 20240902164742.png",
-    "data/Pasted image 20240902164403.png",
-    "data/Pasted image 20240902164322.png",
-    "data/Pasted image 20240902164157.png",
-    "data/Pasted image 20240902163846.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",
-    "old",
-    "old/data"
+    "old"
   ]
 }
