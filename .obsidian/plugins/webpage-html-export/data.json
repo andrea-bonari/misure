@@ -9,7 +9,10 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
+      "Digitalizzazione dei dati",
+      "Incertezza di misura",
       "Metrologia",
+      "Rappresentazione dei risultati",
       "index.md",
       "Introduzione al corso.md"
     ],

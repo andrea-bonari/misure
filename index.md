@@ -11,5 +11,9 @@ Il corso di Misure esplora i concetti fondamentali della metrologia e delle misu
 	3. [[Incertezza di categoria B]]
 	4. [[Misure indirette]]
 	5. [[Compatibilità]]
-	6. 
-
+4. [[Schede di acquisizione dati]]
+	1. [[Campionamento]]
+	2. [[Protocolli di comunicazione]]
+5. [[Rappresentazione grafica]]
+	1. [[Interpolazione]]
+	2. [[Regressione]]
