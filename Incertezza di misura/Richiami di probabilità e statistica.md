@@ -30,7 +30,7 @@ Definiamo la deviazione standard come: $$\sigma_{x}=\sqrt{\sigma^{2}_{x}}$$
 >\frac{1}{2}a& a_{0}-a\leq x\leq a_{0}+a \\
 >0& x>a_{0}+a
 >\end{cases}$$
->Il valore medio: $$\mu(x)=E[x]=\int^{+\infty}_{-\infty} x\space p(x)\text{ d}x=a_{0}$$
+>Il valore medio: $$u(x)=E[x]=\int^{+\infty}_{-\infty} x\space p(x)\text{ d}x=a_{0}$$
 >Mentre la deviazione standard: $$\sigma(x)=\frac{\Delta x}{\sqrt{12}}$$
 
 >[!example] Dimostrazione valore medio
@@ -49,6 +49,6 @@ Definiamo la deviazione standard come: $$\sigma_{x}=\sqrt{\sigma^{2}_{x}}$$
 ### PDF triangolare
 >[!note]
 >![[Pasted image 20241003093013.png]]
->Possiamo dire che: $$\mu(x)=a_{0}$$
+>Possiamo dire che: $$u(x)=a_{0}$$
 >$$\sigma(x)= \frac{\Delta x}{\sqrt{24}}$$
 

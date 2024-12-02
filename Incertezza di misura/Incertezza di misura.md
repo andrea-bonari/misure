@@ -35,7 +35,7 @@ La distribuzione della media campionaria $\overline{x}$ ha media $\mu(x)$ pari a
 E\set{\overline{x}}&= E\left\{\frac{1}{n} \sum\limits_{k=1}^{n}x_{k}\right\}=  \frac{1}{n}E\left\{\sum\limits_{k=1}^{n}x_{k}\right\}\\
 &=\frac{1}{n}\sum\limits_{k=1}^{n}E\set{x_{k}}=
 \frac{1}{n}\sum\limits_{k=1}^{n}E\set{x}\\
-&= \frac{1}{n}\sum\limits^{n}_{k=1}\mu(x)= \frac{1}{n}n\mu(x)=\mu(x)
+&= \frac{1}{n}\sum\limits^{n}_{k=1}u(x)= \frac{1}{n}nu(x)=u(x)
 \end{align*}$$
 
 ### Varianza campionaria

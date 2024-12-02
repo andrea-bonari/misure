@@ -19,7 +19,7 @@ I criteri per scegliere la PDF:
 - Incertezza sui parametri di riferimento
 
 Per calcolare il valor medio e deviazione standard: $$x=x_\text{MIS}=\mu(x)$$
-$$\mu_{B}(x)=\text{INC}_{B}(x)=\sigma(x)$$
+$$u_{B}(x)=\text{INC}_{B}(x)=\sigma(x)$$
 
 >[!tip] Altri metodi di stima di $\mu_{B}$
 >- Si calcola $\mu_{B}$ partendo dalla conoscenza di un intervallo di confidenza con probabilità $P$.

@@ -9,9 +9,11 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
+      "Convertitori ADC E DAC",
       "Digitalizzazione dei dati",
       "Incertezza di misura",
       "Metrologia",
+      "Oscilloscopi",
       "Rappresentazione dei risultati",
       "index.md",
       "Introduzione al corso.md"
@@ -171,7 +173,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "siteURL": "",
-    "siteName": "Misure",
+    "siteName": "misure",
     "faviconPath": "",
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
