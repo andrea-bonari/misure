@@ -23,3 +23,6 @@ Il corso di Misure esplora i concetti fondamentali della metrologia e delle misu
 	3. [[Voltmetri digitali]]
 	4. [[Bit equivalenti]]
 8. [[Oscilloscopio]]
+	1. [[Oscilloscopi digitali]]
+	2. [[Misure con l'oscilloscopio]]
+
